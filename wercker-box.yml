@@ -1,5 +1,5 @@
-name : ubuntu12.04-ruby2.0.0
-version : 0.1.5
+name : ubuntu12.04-ruby2.0.0-nodejs0.10
+version : 0.1.6
 inherits : wercker/ubuntu12.04-nodejs0.10@0.0.2
 type : main
 platform : ubuntu@12.04
